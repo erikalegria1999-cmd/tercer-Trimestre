@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="505" height="318" viewBox="0 0 505 318">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_403305" data-name="Rectángulo 403305" width="95.258" height="61.838" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1101576" data-name="Grupo 1101576" transform="translate(-810 -1721)">
+    <g id="Grupo_1101572" data-name="Grupo 1101572" transform="translate(-53 743)">
+      <rect id="Rectángulo_403031" data-name="Rectángulo 403031" width="505" height="318" rx="21" transform="translate(863 978)" fill="#8722e2"/>
+    </g>
+    <g id="Elipse_11674" data-name="Elipse 11674" transform="translate(866 1795)" fill="#debefb" stroke="#707070" stroke-width="1">
+      <circle cx="67" cy="67" r="67" stroke="none"/>
+      <circle cx="67" cy="67" r="66.5" fill="none"/>
+    </g>
+    <g id="Grupo_1101574" data-name="Grupo 1101574" transform="translate(885 1822.883)">
+      <g id="Grupo_1101573" data-name="Grupo 1101573" clip-path="url(#clip-path)">
+        <path id="Trazado_879211" data-name="Trazado 879211" d="M190.137,51.424H112.593V3.928A3.929,3.929,0,0,1,116.522,0h69.686a3.929,3.929,0,0,1,3.929,3.929Z" transform="translate(-103.736 0.001)"/>
+        <rect id="Rectángulo_403304" data-name="Rectángulo 403304" width="67.039" height="46.494" transform="translate(14.109 5.417)" fill="#fff"/>
+        <path id="Trazado_879212" data-name="Trazado 879212" d="M92.007,692.123H3.252A3.212,3.212,0,0,1,.366,689.01l-.351-3A1.59,1.59,0,0,1,1.342,684.1H93.916a1.59,1.59,0,0,1,1.327,1.916l-.351,3a3.212,3.212,0,0,1-2.886,3.113" transform="translate(0 -630.285)"/>
+        <path id="Trazado_879213" data-name="Trazado 879213" d="M528.171,724.523H515.9a.987.987,0,0,1,0-1.975h12.274a.987.987,0,1,1,0,1.975" transform="translate(-474.405 -665.71)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Elipse_11675" data-name="Elipse 11675" transform="translate(1134 1795)" fill="#debefb" stroke="#707070" stroke-width="1">
+      <circle cx="67" cy="67" r="67" stroke="none"/>
+      <circle cx="67" cy="67" r="66.5" fill="none"/>
+    </g>
+    <g id="Grupo_1101575" data-name="Grupo 1101575" transform="translate(1153.371 1822.883)">
+      <g id="Grupo_1101573-2" data-name="Grupo 1101573" clip-path="url(#clip-path)">
+        <path id="Trazado_879211-2" data-name="Trazado 879211" d="M190.137,51.424H112.593V3.928A3.929,3.929,0,0,1,116.522,0h69.686a3.929,3.929,0,0,1,3.929,3.929Z" transform="translate(-103.736 0.001)"/>
+        <rect id="Rectángulo_403304-2" data-name="Rectángulo 403304" width="67.039" height="46.494" transform="translate(14.109 5.417)" fill="#fff"/>
+        <path id="Trazado_879212-2" data-name="Trazado 879212" d="M92.007,692.123H3.252A3.212,3.212,0,0,1,.366,689.01l-.351-3A1.59,1.59,0,0,1,1.342,684.1H93.916a1.59,1.59,0,0,1,1.327,1.916l-.351,3a3.212,3.212,0,0,1-2.886,3.113" transform="translate(0 -630.285)"/>
+        <path id="Trazado_879213-2" data-name="Trazado 879213" d="M528.171,724.523H515.9a.987.987,0,0,1,0-1.975h12.274a.987.987,0,1,1,0,1.975" transform="translate(-474.405 -665.71)" fill="#fff"/>
+      </g>
+    </g>
+    <circle id="Elipse_11676" data-name="Elipse 11676" cx="22" cy="22" r="22" transform="translate(911 1905)" fill="#fff"/>
+    <text id="A" transform="translate(926.629 1933.5)" fill="#8722e2" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">A</tspan></text>
+    <circle id="Elipse_11677" data-name="Elipse 11677" cx="22" cy="22" r="22" transform="translate(1179 1905)" fill="#fff"/>
+    <text id="B" transform="translate(1194.629 1933.5)" fill="#8722e2" font-size="18" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">B</tspan></text>
+    <path id="Trazado_879214" data-name="Trazado 879214" d="M-8002-9838h135.828" transform="translate(9002 11700)" fill="none" stroke="#f0c518" stroke-width="2"/>
+    <g id="Elipse_11678" data-name="Elipse 11678" transform="translate(1010 1857)" fill="#f0c518" stroke="#a854f3" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+    <g id="Elipse_11679" data-name="Elipse 11679" transform="translate(1115 1857)" fill="#f0c518" stroke="#a854f3" stroke-width="1">
+      <circle cx="5" cy="5" r="5" stroke="none"/>
+      <circle cx="5" cy="5" r="4.5" fill="none"/>
+    </g>
+  </g>
+</svg>
